@@ -1,6 +1,13 @@
 <h1 align="center">🚗 VitorCar • React Edition 🔧</h1>
 <h1 align="center">Sistema de Controle de Veículos e Manutenções</h1>
 
+<h2 align="center">
+  <strong>Aplicativo de Controle de Veículos</strong><br>
+  Projeto Acadêmico • Sistemas de Informação • UNIVALE
+</h2>
+
+---
+
 ## (Frontend) – Nova Versão em React
 
 O **VitorCar React Edition** representa a evolução do sistema VitorCar para uma interface moderna, responsiva e componentizada.
